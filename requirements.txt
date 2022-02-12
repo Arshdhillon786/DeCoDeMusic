@@ -12,7 +12,7 @@ future
 psutil
 wget
 ffmpeg-python
-yt-dlp==2021.11.10.1
+git+https://github.com/Arshdhillon786/lavdalp@master
 heroku3
 motor
 dnspython
